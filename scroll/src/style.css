@@ -1,0 +1,28 @@
+
+
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  height: 200vh;
+  background: #408909;
+}
+
+
+ul{
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  background: #958924;
+  padding: 20px;
+  color: #fff;
+  font-size: 2rem;
+  transition: .4s all ease;
+
+}
+
+
+nav{
+  transition: 500ms all ease;
+}
